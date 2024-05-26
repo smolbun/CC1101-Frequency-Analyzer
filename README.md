@@ -4,7 +4,7 @@
 
 [CC1101 Library by jgromes](https://github.com/jgromes/RadioLib)
 
-[Modified to work with RadioLib Arduino CC1101 library from Flipper Zero firmware](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/applications/main/subghz/views/subghz_frequency_analyzer.c)
+[Modified to work with RadioLib Arduino CC1101 library from Flipper Zero firmware](https://github.com/flipperdevices/flipperzero-firmware/blob/ab2fcaf4abe4d1f235ad6fda7216373cf22f20ba/applications/main/subghz/helpers/subghz_frequency_analyzer_worker.c)
 
 ## Example output
 
