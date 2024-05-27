@@ -14,21 +14,13 @@ You may need to comment [this](https://github.com/jgromes/RadioLib/blob/41f89198
 
 ```
 Frequency Analayzer Started!
-1. COARSE      Frequency: 433.92  RSSI: -66
-2. FINE        Frequency: 433.86  RSSI: -33
-
-1. COARSE      Frequency: 433.92  RSSI: -66
-2. FINE        Frequency: 433.86  RSSI: -32
-
-1. COARSE      Frequency: 433.92  RSSI: -66
-2. FINE        Frequency: 433.88  RSSI: -33
-
-1. COARSE      Frequency: 433.92  RSSI: -67
-2. FINE        Frequency: 433.86  RSSI: -34
-
-1. COARSE      Frequency: 433.92  RSSI: -67
-2. FINE        Frequency: 433.86  RSSI: -32
-
-1. COARSE      Frequency: 915.00  RSSI: -73
-2. FINE        Frequency: 915.04  RSSI: -73
+COARSE      Frequency: 314.98  RSSI: -53
+COARSE      Frequency: 314.98  RSSI: -52
+FINE        Frequency: 433.83  RSSI: -74
+COARSE      Frequency: 433.89  RSSI: -32
+FINE        Frequency: 433.94  RSSI: -32
+FINE        Frequency: 433.93  RSSI: -34
+COARSE      Frequency: 915.00  RSSI: -77
+COARSE      Frequency: 915.00  RSSI: -70
+FINE        Frequency: 915.04  RSSI: -70
 ```
