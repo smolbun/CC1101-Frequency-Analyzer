@@ -4,9 +4,6 @@
 
 #define RADIOLIB_CHECK_PARAMS (0)
 
-#define SCK_PIN 10
-#define MISO_PIN 8
-#define MOSI_PIN 7
 #define SS_PIN 4
 #define gdo2 3
 #define gdo0 1
